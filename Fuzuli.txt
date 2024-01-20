@@ -8,3 +8,5 @@ Fuzili development code with Python for AI
 
 AI is misunderstaning tecnlogy.
 
+Creat is new branch for Semra
+
